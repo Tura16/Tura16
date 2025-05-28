@@ -42,7 +42,7 @@
 ### 🌐 Мой сайт-портфолио
 
 
-[![Посмотреть](https://ibb.co/wrRGQK8S "Coding with Claude 4 is actually insane")](https://tura16.github.io/Portfolio/)
+[![Посмотреть](https://i.postimg.cc/KYs4Y9tk/web-site.png)](https://postimg.cc/p9zPGJGR)](https://tura16.github.io/Portfolio/)
 
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/senior_null?sub_confirmation=1)
