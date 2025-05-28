@@ -47,7 +47,7 @@
 
 
 #
-
+<br>
 ### 🌐 Мой сайт-портфолио
 <a href="https://tura16.github.io/Portfolio/" target="_blank">
     <img align="center" alt="HTML" width="330px" height="230px" style="padding-right:10px;" src="https://habrastorage.org/webt/sp/pt/9v/sppt9vvxfcxlilz8gdgnnthdsu8.png" />
@@ -58,7 +58,7 @@
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/senior_null?sub_confirmation=1)
 
 #
-
+<br>
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
