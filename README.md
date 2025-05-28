@@ -41,7 +41,7 @@
 
 ### 🌐 Мой сайт-портфолио
 <a href="https://tura16.github.io/Portfolio/">
-    <img align="center" alt="HTML" width="100px" height="200px" style="padding-right:10px;" src="https://linkbuilder.su/images/uploads/glossary/ssilka.jpg" />
+    <img align="center" alt="HTML" width="400px" height="200px" style="padding-right:10px;" src="https://tproger.ru/signed_image/hHUJuVOT8RbvF9JJ70f03yuEeJc0fbq8-XQ-7VDmhbU/rs:fill:1272:0:true/cb:vimg_2/f:webp/aHR0cHM6Ly9tZWRpYS50cHJvZ2VyLnJ1L3VwbG9hZHMvMjAyNS8wNS9hMjAxYTRjZi0wNTQ2LTRjNTctOGRlOC03MjE1NmVlYjFlYzguanBlZw=" />
 
 
 
