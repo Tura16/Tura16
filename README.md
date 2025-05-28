@@ -41,12 +41,9 @@
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-
-
-
-
 <br>
+
+
 ### 🌐 Мой сайт-портфолио
 <a href="https://tura16.github.io/Portfolio/" target="_blank">
     <img align="center" alt="HTML" width="330px" height="230px" style="padding-right:10px;" src="https://habrastorage.org/webt/sp/pt/9v/sppt9vvxfcxlilz8gdgnnthdsu8.png" />
