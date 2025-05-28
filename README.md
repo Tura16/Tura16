@@ -41,7 +41,7 @@
 
 ### 🌐 Мой сайт-портфолио
 <a href="https://tura16.github.io/Portfolio/">
-    <img align="center" alt="HTML" width="300px" height="250px" style="padding-right:10px;" src="https://habrastorage.org/webt/sp/pt/9v/sppt9vvxfcxlilz8gdgnnthdsu8.png" />
+    <img align="center" alt="HTML" width="350px" height="220px" style="padding-right:10px;" src="https://habrastorage.org/webt/sp/pt/9v/sppt9vvxfcxlilz8gdgnnthdsu8.png" />
 
 
 
