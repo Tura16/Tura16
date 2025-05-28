@@ -41,7 +41,7 @@
 
 ### 🌐 Мой сайт-портфолио
 <a href="https://tura16.github.io/Portfolio/">
-    <img align="center" alt="HTML" width="100px" height="200px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg](https://i.postimg.cc/KYs4Y9tk/web-site.png)" />
+    <img align="center" alt="HTML" width="100px" height="200px" style="padding-right:10px;" src="[![web-site.png](https://i.postimg.cc/KYs4Y9tk/web-site.png)](https://postimg.cc/p9zPGJGR)" />
 
 
 
