@@ -40,9 +40,9 @@
 #
 
 ### 🌐 Мой сайт-портфолио
+<a href="https://tura16.github.io/Portfolio/">
+    <img align="center" alt="HTML" width="100px" height="200px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg](https://i.postimg.cc/KYs4Y9tk/web-site.png)" />
 
-
-[![Посмотреть](https://i.postimg.cc/KYs4Y9tk/web-site.png)](https://postimg.cc/p9zPGJGR)](https://tura16.github.io/Portfolio/)
 
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/senior_null?sub_confirmation=1)
