@@ -43,7 +43,7 @@
 ### 🧰 Мои навыки:
 <br>
 <div align="center">
-  <img  alt="HTML" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img  alt="HTML" width="40px" style="margin-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
   <img  alt="CSS" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
